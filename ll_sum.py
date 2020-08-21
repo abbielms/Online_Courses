@@ -35,4 +35,3 @@ mins_in_hours = num_of_mins / 60
 total_hours = round((num_of_hours + mins_in_hours), 2)
 
 print(f'Total hours: {total_hours}')
-
