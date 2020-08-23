@@ -1,12 +1,2 @@
-c_total_hours	c_total_minutes	c_dsMathSkills_hours	c_dsMathSkills_minutes	c_AWSml_hours	c_AWSml_minutes
-0	17	0	17	0	77
-0	120	0	120	0	64
-0	86	0	86	0	61
-0	87	0	87	0	75
-0	81	0	81	0	186
-0	390	0	390		
-0	77				
-0	64				
-0	61				
-0	75				
-0	186				
+c_total_hours,c_dsMathSkills_hours,c_AWSml_hours,c_CV_hours,c_matlab_hours
+66,13,8,10,35
